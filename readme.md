@@ -1,1 +1,2 @@
-https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/learn/lecture/13703696#overview
+Quiz-Time is a simple Quiz game based on a Udemy course lectured by James Quick.
+
